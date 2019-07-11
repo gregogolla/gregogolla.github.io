@@ -34,6 +34,21 @@ Clicking on the `Create Message` takes you to the `Compose New Message` view tha
 
 ?> **Note** Messages sent to a member in the application will also be `sent as an external email` to the recipient.
 
+##	Announcements
+This icon links to the announcement module where members can view announcements sent by the administrator of the website.
+
+<div style="width:500px;">
+
+![alt text](images/3.2_Announcement.png "announcements icon")
+</div>
+
+Clicking on the `View All Announcements` button takes you to the `Announcements` screen from where a member can view all announcements.
+
+?> **Note** Announcements are also sent to the members as external emails.
+<div style="width:500px;">
+
+![alt text](images/3.2_1_Announcements_Inbox.png "announcements inbox")
+</div>
 ## User Drop Down
 The User Drop-down Icon provides the members with access to their profile, ability to reset their password or to log out from the site
 

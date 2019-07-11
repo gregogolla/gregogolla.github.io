@@ -1,5 +1,5 @@
 # Send Statements
-!> This page can only be accessed by the `Treasurer` or member with the `finance_write` permission. It is used to email statements to all or selected members.
+!> This page can only be accessed by the `Admin`, `Treasurer` or member with the `finance_write` permission. It is used to email statements to all or selected members.
 
 ![alt text](images/6.1_Send_Statement.png "send statements page")
 

@@ -38,7 +38,7 @@ This tab provides permission to the `Roles` (or Groups). Care should be taken in
 ![alt text](images/7.5_Permissions.png "permissions tab")
 
 ##	Manage database
-This section provides a view that allows the administrator to access and manipulate records in the database. It should be used with care and a full understanding of the data schema.
+This section provides a view that allows the administrator to access and manipulate records in the database. It is very useful for examining, changing or deleting records when the front end pages have a problem. It should be used with care and a full understanding of the data schema.
 
 ![alt text](images/7.6_Manage_Database.png "roles tab")
 

@@ -20,7 +20,7 @@ Details of the Contribution record are:
 - `Category` – Category of the payment e.g. Monthly Contribution or Lumpsum payment.
 - `Type` – whether the transaction was a payment or receipt
 - `Memo` – Any additional information regarding the transaction
-- `Allocations` – used to allocate portion of payments to different months. This s useful if one large payment was made from an account to be distributed for several months.
+- `Allocations` – used to allocate portion of payments to different months. This is useful if one large payment was made from an account to be distributed for several months.
 
 ##	My Loans
 Displays the details of loans given to the account.
