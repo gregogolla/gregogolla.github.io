@@ -48,7 +48,7 @@ Clicking on the `View All Announcements` button takes you to the `Announcements`
 
 <div style="width:500px;">
 
-![alt text](images/3.2_1_Announcements_Inbox.png "announcements inbox")
+![alt text](images/3.2_1_Announcement_Inbox.png "announcements inbox")
 </div>
 
 ## User Drop Down
