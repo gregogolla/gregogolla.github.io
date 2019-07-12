@@ -45,10 +45,12 @@ This icon links to the announcement module where members can view announcements 
 Clicking on the `View All Announcements` button takes you to the `Announcements` screen from where a member can view all announcements.
 
 ?> **Note** Announcements are also sent to the members as external emails.
+
 <div style="width:500px;">
 
 ![alt text](images/3.2_1_Announcements_Inbox.png "announcements inbox")
 </div>
+
 ## User Drop Down
 The User Drop-down Icon provides the members with access to their profile, ability to reset their password or to log out from the site
 
