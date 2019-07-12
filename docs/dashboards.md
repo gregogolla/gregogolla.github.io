@@ -3,7 +3,14 @@ Use the dashboard area to view numbers, tables and graphs that provide a summary
 
 ##	Fund Dashboard
 
+<!-- tabs:start -->
+#### **Desktop**
 ![alt text](images/4.1_Fund_Dashboard.png "fund Dashboard")
+
+#### **Mobile**
+![alt text](images/4.1_Fund_Dashboard_Mobile_1.png "fund Dashboard")
+![alt text](images/4.1_Fund_Dashboard_Mobile_2.png "fund Dashboard")
+<!-- tabs:end -->
 
 Under the Fund Dashboard area, members can view the following :
 
@@ -16,9 +23,14 @@ Under the Fund Dashboard area, members can view the following :
 
 ## My Dashboard
 My dashboard area provides a summary of the accounts focused on the respective user’s account.
-
+<!-- tabs:start -->
+#### **Desktop**
 ![alt text](images/4.2_My_Dashboard.png "My Dashboard")
 
+#### **Mobile**
+![alt text](images/4.2_My_Dashboard_Mobile_1.png "My Dashboard")
+![alt text](images/4.2_My_Dashboard_Mobile_2.png "My Dashboard")
+<!-- tabs:end -->
 Under the My Dashboard area, members can view the following:
   - `My Contributions` – a card that displays the contributions made by the respective account of the logged in member. It also displays when the contributions began.
   - `My Share` – a card that displays the percentage of the individual account’s contribution much money the fund has in the hand. Note that a member can only see their and not that of other accounts.

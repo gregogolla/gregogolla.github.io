@@ -3,11 +3,13 @@ Below is a deeper look at the buttons found on the Top banner
 
 ## The Search Box
 The Search Box searches through the different records and returns content matching the search term.
-<div style="width:500px;">
-
+<!-- tabs:start -->
+#### **Desktop**
 ![alt text](images/3.1_Search.png "search page")
-</div>
 
+#### **Mobile**
+![alt text](images/3.1_Search_Mobile.png "search page")
+<!-- tabs:end -->
 When searching through application, the content will be displayed according to the logged in user’s access to the content that matches the search string submitted.
 
 >Therefore:
@@ -27,28 +29,32 @@ Clicking on the `See All Messages` link takes you to the Mailbox view from where
 
 Clicking on the `Create Message` takes you to the `Compose New Message` view that allows you to compose and send a message to another member on the site. You can also compose a new message by using the `Compose` button at the top of the messages screen.
 
-<div style="width:500px;">
-
+<!-- tabs:start -->
+#### **Desktop**
 ![alt text](images/3.1.1_Message_Inbox.png "messages inbox")
-</div>
+
+#### **Mobile**
+![alt text](images/3.1.1_Message_Inbox_Mobile.png "messages inbox")
+<!-- tabs:end -->
 
 ?> **Note** Messages sent to a member in the application will also be `sent as an external email` to the recipient.
 
 ##	Announcements
 This icon links to the announcement module where members can view announcements sent by the administrator of the website.
 
-<div style="width:500px;">
-
 ![alt text](images/3.2_Announcement.png "announcements icon")
-</div>
 
 Clicking on the `View All Announcements` button takes you to the `Announcements` screen from where a member can view all announcements.
 
 ?> **Note** Announcements are also sent to the members as external emails.
 
-
+<!-- tabs:start -->
+#### **Desktop**
 ![alt text](images/3.2.1_Annoucement_inbox.png "announcements inbox")
 
+#### **Mobile**
+![alt text](images/3.2.1_Annoucement_inbox_Mobile.png "announcements icon")
+<!-- tabs:end -->
 
 ## User Drop Down
 The User Drop-down Icon provides the members with access to their profile, ability to reset their password or to log out from the site
@@ -56,24 +62,29 @@ The User Drop-down Icon provides the members with access to their profile, abili
 ## Member Profile
 The Profile page allows the user to view and setup their personal details. To access the profile page, click the Profile button from the drop-down list under you name.
 
-<div style="width:500px;">
+
 
 ![alt text](images/3.4_Member_Account_Profile.png "Account profile button")
-</div>
+
+
+
 
 The full profile page appears as shown below.
-<div style="width:500px;">
-
+<!-- tabs:start -->
+#### **Desktop**
 ![alt text](images/3.5_Profile_Detail.png "Account profile detail page")
-</div>
 
+#### **Mobile**
+![alt text](images/3.5_Profile_Detail_Mobile_1.png "Account profile")
+![alt text](images/3.5_Profile_Detail_Mobile_2.png "Account profile")
+
+<!-- tabs:end -->
 Detail on the profile page include
 - `Image` – Image file to display members image
 -	`Account` – Account to which the member belongs. This allows more than one individual to be part of the account
 -	`First Name` – Member’s Given Name(s)
 -	`Last Name` – Members Last name
 -	`E-mail` – Email address. This is also used as the login ID
--	`Last statement` – timestamp for the last time an account statement was emailed to the member
 -	`Address` – Physical address or P. O. Box that member can be reached at.
 -	`Participation dates` -  a calendar grid that keeps track of the time ranges for which a member is part of the fund.
 
