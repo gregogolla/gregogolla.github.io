@@ -1,5 +1,10 @@
 # Navigating the Application
+
+#### **Desktop**
 ![alt text](images/2.1_App_Overview.png "App Overview")
+
+#### **Mobile**
+![alt text](images/2.1_App_Overview_Mobile.png "App Overview")
 
 The Application is built to allow easy access of all the screens and content using Navigation menus, the Top Banner area, and the  Main Content Page. After successfully logging in, these sections will be displayed.
 
