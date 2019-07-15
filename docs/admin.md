@@ -25,9 +25,9 @@ The `Users` Tab is used to edit an individual member’s profile. It can be used
 
 ###	Participation dates
 
-!> **Note** It is important that the Administrator accurately records all members `Participation Dates` so that arrears and dues can be calculated correctly.
+!> **Note** It is important that the Administrator accurately records all members' `Participation Dates` so that arrears and dues can be calculated correctly.
 
-`Participation Dates` provide exact date intervals for which a specific member is expected to be an active member of the fund. By recording exact date ranges the system can then calculate how much everyone is expected to pay and from that determine arrears for each account. Add as many date ranges as necessary to fully describe the members dates of participation , especially if the member had many gaps in their membership.
+`Participation Dates` provide exact date intervals for which a specific member is expected to be an active, dues paying member of the fund. By recording exact date ranges the system can then calculate how much everyone is expected to pay and from that determine arrears for each account. Add as many date ranges as necessary to fully describe the members dates of participation , especially if the member had many gaps in their membership.
 
 ![alt text](images/7.4_Participation_Dates.png "participation dates tab")
 

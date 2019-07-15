@@ -12,7 +12,7 @@ Use the dashboard area to view numbers, tables and graphs that provide a summary
 ![alt text](images/4.1_Fund_Dashboard_Mobile_2.png "fund Dashboard")
 <!-- tabs:end -->
 
-Under the Fund Dashboard area, members can view the following :
+Under the Fund Dashboard area, members can view the following:
 
 - `Cash Position` – a card that displays how much money the fund has in the hand. It also displays what percentage this is of the Total fund value.
 - `Investments` – a card that displays how much money the fund has in investments. It also displays chart that shorts the investment value for the last several months.
@@ -40,6 +40,7 @@ Under the My Dashboard area, members can view the following:
 
 ## My Arrears
 From the `My Dashboards` page, a member can access more detail about arrears (or credit) that have accrued.
+
 ![alt text](images/4.3_My_Arrears_Card.png "My Arrears Card")
 
 Click on the `My Arrears` card to navigate to the `Arrears List` page that provides details on how the arrears and credit have accrued.
@@ -48,8 +49,13 @@ Click on the `My Arrears` card to navigate to the `Arrears List` page that provi
 
 On the `Arrears List` page, a member can view the following:
 
+<!-- tabs:start -->
+#### **Desktop**
 ![alt text](images/4.4_My_Arrears_List.png "My Arrears List")
 
+#### **Mobile**
+![alt text](images/4.4_My_Arrears_List_Mobile.png "My Arrears List")
+<!-- tabs:end -->
   - `Month` – A Year-Month combination for which there was an expected payment that and the actual payment did not match.
   - `Expected` – Based on the Account Members participation dates (as displayed in each member profile page) the total amount expected for the respective account.
   - `Paid` – Total amount paid for the account for the month.

@@ -15,10 +15,8 @@ To access the webpage and application, here is the URL:
 
 Your name will appear on the top right to show you are `Logged in`.
 
-<div style="width:400px;">
-
 ![alt text](images/1.2_Logged_in.png "logged in message")
-</div>
+
 
 ##	Resetting lost password
 If you need to reset your password, do the following:

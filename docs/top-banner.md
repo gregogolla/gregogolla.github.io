@@ -1,5 +1,5 @@
 # Top Banner Content
-Below is a deeper look at the buttons found on the Top banner
+Below is a deeper look at the buttons found on the Top banner.
 
 ## The Search Box
 The Search Box searches through the different records and returns content matching the search term.
@@ -18,14 +18,14 @@ When searching through application, the content will be displayed according to t
 -	The treasurer or admin can view, edit or delete all transactions
 
 ## Messages Icon
-This icon links to the messages module which provides members with the ability to send messages to each other.
+This icon links to the `Messages` module which provides members with the ability to send messages to each other.
 
 <div style="width:500px;">
 
 ![alt text](images/3.1_Message.png "messages icon")
 </div>
 
-Clicking on the `See All Messages` link takes you to the Mailbox view from where a user can view all messages that they have received (in the Inbox Folder), sent (in the Sent Folder) or saved as a draft (in the Drafts Folder).
+Clicking on the `See All Messages` link takes you to the Mailbox view from where a user can view all messages that they have received (in the `Inbox` Folder), sent (in the `Sent` Folder) or saved as a draft (in the `Drafts` Folder).
 
 Clicking on the `Create Message` takes you to the `Compose New Message` view that allows you to compose and send a message to another member on the site. You can also compose a new message by using the `Compose` button at the top of the messages screen.
 
@@ -37,7 +37,8 @@ Clicking on the `Create Message` takes you to the `Compose New Message` view tha
 ![alt text](images/3.1.1_Message_Inbox_Mobile.png "messages inbox")
 <!-- tabs:end -->
 
-?> **Note** Messages sent to a member in the application will also be `sent as an external email` to the recipient.
+?> **Note**
+Messages sent to a member in the application will also be sent as an external email to the recipient.
 
 ##	Announcements
 This icon links to the announcement module where members can view announcements sent by the administrator of the website.
@@ -57,17 +58,12 @@ Clicking on the `View All Announcements` button takes you to the `Announcements`
 <!-- tabs:end -->
 
 ## User Drop Down
-The User Drop-down Icon provides the members with access to their profile, ability to reset their password or to log out from the site
+The `User Drop-down` Icon provides the members with access to their profile, ability to reset their password or to log out from the site
 
 ## Member Profile
-The Profile page allows the user to view and setup their personal details. To access the profile page, click the Profile button from the drop-down list under you name.
-
-
+The `Profile` page allows the user to view and setup their personal details. To access the profile page, click the Profile button from the drop-down list under you name.
 
 ![alt text](images/3.4_Member_Account_Profile.png "Account profile button")
-
-
-
 
 The full profile page appears as shown below.
 <!-- tabs:start -->
@@ -79,27 +75,28 @@ The full profile page appears as shown below.
 ![alt text](images/3.5_Profile_Detail_Mobile_2.png "Account profile")
 
 <!-- tabs:end -->
-Detail on the profile page include
-- `Image` – Image file to display members image
--	`Account` – Account to which the member belongs. This allows more than one individual to be part of the account
--	`First Name` – Member’s Given Name(s)
--	`Last Name` – Members Last name
--	`E-mail` – Email address. This is also used as the login ID
+Detail on the profile page include:
+- `Image` – Image file to display members image.
+-	`Account` – Account to which the member belongs. This allows more than one individual to be part of the account.
+-	`First Name` – Member’s Given Name(s).
+-	`Last Name` – Members Last name.
+-	`E-mail` – Email address. This is also used as the login ID.
 -	`Address` – Physical address or P. O. Box that member can be reached at.
 -	`Participation dates` -  a calendar grid that keeps track of the time ranges for which a member is part of the fund.
 
 !> **Note** It is important that the treasurer accurately records your `Participation Dates` so that arrears and dues can be calculated correctly.
 
 ## Change password
-To change password, click the Password button from the drop-down list under you name.
+To change password, click the `Change Password` button from the drop-down list under you name.
 
 |  Change Password Option             | Steps |
   :-------------------------:|:-------------------------:
 ![alt text](images/3.4.2_Change_Password.png "change password option")|![alt text](images/3.4.3_Change_Password_dialog.png "change password dialog")
 
-  1. Enter your old password
-  1. Enter the new password
-  1. Enter your new password again to verify
+  1. Enter your old password.
+  1. Enter the new password.
+  1. Enter your new password again to verify.
+  1. Click on the `Change password` button.
 
 
 ## Log out
