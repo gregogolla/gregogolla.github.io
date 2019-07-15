@@ -134,3 +134,15 @@
 .app-sub-sidebar li::before {
     display: none;
 }
+
+
+body .docsify-pagination-container {
+  border-width: 1px;
+  border-color: green;
+}
+body .pagination-item-label svg {
+  height: 1.5em;
+  stroke-linecap: square;
+  stroke-linejoin: square;
+  stroke-width: 3px;
+}

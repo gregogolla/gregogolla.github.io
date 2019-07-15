@@ -9,9 +9,22 @@ Under the Finances section, users can view the following:
 ##	My Contributions
 Displays details of contributions made for each account
 
+<!-- tabs:start -->
+#### **Desktop**
 ![alt text](images/5.1_My_Contributions.png "My Contributions")
+
+#### **Mobile**
+![alt text](images/5.1_My_Contributions_Mobile.png "My Contributions")
+<!-- tabs:end -->
 Clicking on a contribution record opens the `View contribution` page to display the contribution details.
+<!-- tabs:start -->
+#### **Desktop**
 ![alt text](images/5.2_My_Contributions_Detail.png "My Contributions Detail")
+
+#### **Mobile**
+![alt text](images/5.2_My_Contributions_Detail_Mobile_1.png "My Contributions Detail")
+![alt text](images/5.2_My_Contributions_Detail_Mobile_2.png "My Contributions Detail")
+<!-- tabs:end -->
 
 Details of the Contribution record are:
 - `Account` – the name of the account
@@ -25,11 +38,24 @@ Details of the Contribution record are:
 ##	My Loans
 Displays the details of loans given to the account.
 
+<!-- tabs:start -->
+#### **Desktop**
 ![alt text](images/5.3_My_Loans.png "My Loans")
 
+#### **Mobile**
+![alt text](images/5.3_My_Loans_Mobile.png "My Loans")
+<!-- tabs:end -->
+
 Clicking on a loan record opens the `Edit Loan` page to display the loan details.
+<!-- tabs:start -->
+#### **Desktop**
 ![alt text](images/5.4_My_Loans_Detail.png "My Loans Detail")
 
+#### **Mobile**
+![alt text](images/5.4_My_Loans_Detail_Mobile_1.png "My Loans Detail")
+![alt text](images/5.4_My_Loans_Detail_Mobile_2.png "My Loans Detail")
+![alt text](images/5.4_My_Loans_Detail_Mobile_3.png "My Loans Detail")
+<!-- tabs:end -->
 Details of the loan record include the following:
 
 - `Account` – the name of the account the loan was disbursed to

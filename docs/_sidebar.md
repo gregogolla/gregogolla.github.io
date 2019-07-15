@@ -1,4 +1,3 @@
-<!-- docs/_sidebar.md -->
 [**Welcome**](/#investrak-20-application)
 
 [**Accessing the Site**](logging-in.md)
