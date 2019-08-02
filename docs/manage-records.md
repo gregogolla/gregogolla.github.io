@@ -43,10 +43,10 @@ This page is used to Add, Edit or Delete document records. The page is similar t
 
 ![alt text](images/6.6_Manage_Documents.png "manage documents page")
 
-## List All Transactions
+## Statement
 
 !>This is a read-only page. It can only be viewed by the `Admin`, `Treasurer` or member with the permission `finance_write`.
 
-This page is used for reconciliation. It combines and lists all transactions in chronological order with a running total. It is useful to compare with bank statements for determining cash position.
+This page is used for reconciliation. Practically it should be comparable to the bank statement. It combines and lists all transactions in chronological order with a running total. It is useful to compare with bank statements for determining cash position.
 
-![alt text](images/6.7_All_Transactions.png "all transactions")
+![alt text](images/6.7_All_transactions.png "statement")
