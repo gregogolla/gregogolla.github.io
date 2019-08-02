@@ -63,6 +63,7 @@ Each month row has an expand/collapse button that can be used to show or hide tr
 - `Amount` - The transaction amount. Money in is displayed as green while money out is displayed as red and in negative.
 - `Balance` - The running balance taking into account all previous transactions.
 
+Additionally the page contains the following:
 - `Search transactions` - a search box is also provided to allow you to filter a specific transaction you may be looking for. When you type into the box the table is automatically filter to display just the transactions containing the word being searched.
 
-?>Note that when more than one word is entered into search box, the table displays records corresponding to any of the search words.
+?>Note that when more than one word is entered into search box, the table displays records corresponding to **any** of the search words.
