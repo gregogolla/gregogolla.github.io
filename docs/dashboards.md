@@ -14,7 +14,7 @@ Use the dashboard area to view numbers, tables and graphs that provide a summary
 
 Under the Fund Dashboard area, members can view the following:
 
-- `Cash Position` – a card that displays how much money the fund has in the hand. It also displays what percentage this is of the Total fund value.
+- `Cash Position` – a card that displays how much money the fund has in the hand. It also displays a small cash position trend chart (24 months).
 - `Investments` – a card that displays how much money the fund has in investments. It also displays chart that shows the investment value for the last several months.
 - `Loans` – a card that displays total outstanding loans from members.
 - `Arrears` – a card that displays total outstanding Contributions from members. It also displays what percentage this is of the Total fund value.
