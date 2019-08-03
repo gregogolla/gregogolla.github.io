@@ -66,8 +66,13 @@ Details of the loan record include the following:
 - `Start payment` – When the first payment is expected.
 - `Period` – How many months to complete the payments (useful in calculating estimated monthly repayments).
 - `Memo` – Any additional information regarding the transaction.
+
+The following are  automatically:
 - `Loan status (estimated monthly repayments)` – Estimated Monthly Repayments based on the interest rates and payment periods.
 - `Loan status (outstanding)` – Outstanding loan based on the calculated interest first day payment is expected.
+
+An additional section is displayed with the following details:
+
 - `Payments` – A list of payments made, and monthly interest calculated for the loan.
 
 ## Fund Transactions
@@ -92,7 +97,7 @@ Clicking on a Fund Transaction record opens the `View Fund Transaction` page to 
 <!-- tabs:end -->
 
 Details of the fund transaction  record include:
-- `Activity Date` – The date the loan was disbursed.
+- `Activity Date` – The date the of the fund transaction.
 - `Category` – Expense or Income.
 - `Amount` – The transaction amount.
 - `Memo` – Any additional information regarding the transaction.
@@ -118,8 +123,9 @@ Clicking on an Investment record opens the `Edit Investment` page to display the
 
 Details of the investment record include:
 - `Open Date` – The date the Investment was opened.
+- `Investment Active` - a check-box that indicates whether or not the investment is active.
 - `Close Date` – The date the Investment was closed (if no longer active).
-- `Funding` – Total amount that has been invested into the Investment.
-- `Current` – The total amount that the investment is worth (including gains and losses).
+- `Investment Funding` – Total amount that has been invested into the Investment.
+- `Investment Value` – The total amount that the investment is worth (including gains and losses).
 - `Memo` – Any additional information regarding the transaction.
 - `Investment Transactions` – a table grid that display individual invest transactions including initial funding, losses gain etc.
