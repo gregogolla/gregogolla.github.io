@@ -28,12 +28,28 @@ Clicking on a contribution record opens the `View contribution` page to display 
 
 Details of the Contribution record are:
 - `Account` – the name of the account associated with the contribution payment.
-- `Date` – The date the payment was made.
+- `Approval` – used by the treasurer to approve/reject a record entered by Member.
+- `Date` – the date the payment was made.
 - `Amount` – the amount paid.
-- `Category` – Category of the payment e.g. Monthly Contribution or Lump sum payment.
+- `Category` – the category of the payment e.g. Monthly Contribution or Lump sum payment.
 - `Type` – whether the transaction was a payment or receipt.
-- `Memo` – Any additional information regarding the transaction.
+- `Memo` – any additional information regarding the transaction.
 - `Allocations` – used to allocate portion of payments to different months. This is useful if one large payment was made from an account to be distributed for several months.
+- `Image` - used to attach image of banking receipt (useful for approval).
+
+### Add Contributions
+You can add contributions using the `New Contribution` button on this page.
+The record will be marked as `Pending` by default until the `Treasurer` edits and approves the record.
+In the `Create Contribution` page, provide the following information:
+
+- `Date` – Select the date the payment was made.
+- `Amount` – Enter the amount paid.
+- `Memo` – Add any additional information regarding the transaction.
+- `Attachment` - use the `Choose File` button to upload an image of the banking receipt. This will be used as proof for the `Treasurer` to approve the request.
+
+![alt text](images/6.2.1_Allocation_Added.png "Allocation added")
+
+?>Contribution records with a status as `Pending` will not be included in a members total contributions until the `Treasurer` marks it as `Approved`.
 
 ##	My Loans
 This page displays a table which lists the displays the details of loans given to the account.
