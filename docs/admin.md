@@ -11,6 +11,23 @@ The `Users` Tab is used to edit an individual member’s profile. It can be used
 
 ![alt text](images/7.1_Users.png "users tab")
 
+#### Activate or deactivate Users
+To login and use the platform a user's login needs to be active. All user accounts have one of the following statuses:
+  - `Active` - This is the status that all members who login to the system will have
+  - `Pending` - When a member initially registers into the system the user's account is saved with this status. They will be unable to login until the administrator changes the status to `Active`
+  - `Disabled` - When a user leaves or becomes inactive the Administrator can deactivate the user's login by changing the status to `Disabled`. The member will be unable to login until the administrator changes the status to `Active`.
+
+To activate a user whose status is `pending` or `disabled` do the following:
+  - Click on the users `Status` button in the `Manage Users` page.
+  - Select the `active` (or whatever appropriate status you would like to set).
+  - Confirm when prompted.
+
+|  Select Status             |  Confirm change |
+  :-------------------------:|:-------------------------:
+![alt text](images/7.3.1_Activate_Member.png "change stasus button") | ![alt text](images/7.3.2_Activate_Member_Confirm.png "Confirm change status")
+
+
+
 ###	Participation dates
 
 !> **Note** It is important that the Administrator accurately records all members' `Participation Dates` so that arrears and dues can be calculated correctly.
