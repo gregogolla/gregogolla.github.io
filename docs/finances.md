@@ -45,7 +45,7 @@ In the `Create Contribution` page, provide the following information:
 - `Date` – Select the date the payment was made.
 - `Amount` – Enter the amount paid.
 - `Memo` – Add any additional information regarding the transaction.
-- `Attachment` - use the `Choose File` button to upload an image of the banking receipt. This will be used as proof for the `Treasurer` to approve the request.
+- `Attachment` - use the `Choose File` button to upload an image of the banking receipt. This will be used as proof for the `Treasurer` to approve the payment record.
 
 ![alt text](images/6.2.1_Allocation_Added.png "Allocation added")
 
@@ -100,7 +100,7 @@ If you have deposited your a loan payment to the bank, you can add your own cont
 
 #### **Mobile**
 ![alt text](images/5.4_My_Loans_Add_Payment_Mobile_1.png "My Loans Detail")
-![alt text](images/5.4_My_Loans_Add_Paymentl_Mobile_2.png "My Loans Detail")
+![alt text](images/5.4_My_Loans_Add_Payment_Mobile_2.png "My Loans Detail")
 <!-- tabs:end -->
 
 In the `Create Loan Payment` page, provide the following information:
@@ -108,7 +108,9 @@ In the `Create Loan Payment` page, provide the following information:
 - `Date` – Select the date the payment was made.
 - `Amount` – Enter the amount paid.
 - `Memo` – Add any additional information regarding the transaction.
-- `Attachment` - use the `Choose File` button to upload an image of the banking receipt. This will be used as proof for the `Treasurer` to approve the request.
+- `Attachment` - use the `Choose File` button to upload an image of the banking receipt. This will be used as proof for the `Treasurer` to approve the payment record.
+
+Click on the `Create Payment` button to save save the record.
 
 The record will be marked as `Pending` by default until the `Treasurer` edits and approves the record.
 
@@ -172,7 +174,7 @@ Details of the investment record include:
 
 ## All Transactions
 
-!>This is a read-only page. It consolidates transactions from the various types of transactions to create a statement of all activity in the fund.
+?>This is a read-only page. It consolidates transactions from the various types of transactions to create a statement of all activity in the fund.
 
 This page is used for reconciliation. Practically it should be comparable to the bank statement. It combines and lists all transactions in chronological order with a running total. It is useful to compare with bank statements for determining cash position.
 
