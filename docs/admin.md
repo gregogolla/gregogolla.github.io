@@ -38,17 +38,11 @@ In the `Create Participation Date` page, provide the following information:
 
 ![alt text](images/7.2_Roles.png "roles tab")
 
-###	Memberships
-`Memberships` tab is used to add or remove roles from individual user login. A user can be assigned one or more  memberships.
+####	Add Role Membership
+`+ Member` button under the respective role is used to add  a roles for individual member login. A member can be assigned one or more  roles.
 
 ![alt text](images/7.3_Memberships.png "memberships tab")
 
-
-
-###	Permissions
-This tab provides permission to the `Roles` (or Groups). Care should be taken in changing existing permissions to ensure that respective default roles are able to access the right pages in the application.
-
-![alt text](images/7.5_Permissions.png "permissions tab")
 
 ##	Manage database
 This section provides a view that allows the administrator to access and manipulate records in the database. It is very useful for examining, changing or deleting records when the front end pages have a problem. It should be used with care and a full understanding of the data schema.
