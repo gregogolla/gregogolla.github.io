@@ -38,7 +38,7 @@ Details of the Contribution record are:
 - `Image` - used to attach image of banking receipt (useful for approval).
 
 ### Add Contributions
-You can add contributions using the `New Contribution` button on this page.
+If you have deposited your contributions to the bank, You can add your own contributions record using the `New Contribution` button on this page.
 The record will be marked as `Pending` by default until the `Treasurer` edits and approves the record.
 In the `Create Contribution` page, provide the following information:
 
@@ -49,7 +49,7 @@ In the `Create Contribution` page, provide the following information:
 
 ![alt text](images/6.2.1_Allocation_Added.png "Allocation added")
 
-?>Contribution records with a status as `Pending` will not be included in a members total contributions until the `Treasurer` marks it as `Approved`.
+?>Contribution records with a status as `Pending` will not be included in a members total contributions sum until the `Treasurer` marks it as `Approved`.
 
 ##	My Loans
 This page displays a table which lists the displays the details of loans given to the account.
@@ -84,12 +84,36 @@ Details of the loan record include the following:
 - `Memo` – Any additional information regarding the transaction.
 
 The following are  automatically:
-- `Loan status (estimated monthly repayments)` – Estimated Monthly Repayments based on the interest rates and payment periods.
-- `Loan status (outstanding)` – Outstanding loan based on the calculated interest first day payment is expected.
+- Loan status `(estimated monthly repayments)` – Estimated Monthly Repayments based on the interest rates and payment periods.
+- Loan status `(outstanding)` – Outstanding loan based on the calculated interest first day payment is expected.
 
 An additional section is displayed with the following details:
 
-- `Payments` – A list of payments made, and monthly interest calculated for the loan.
+- `Payments` – A list of payments made, and monthly interest calculated for the loan. The records can be viewed from several tabs - `All` to display all transactions including payments and calculated transactions, `Payments` to display just payments without calculated interest `Pending` to display only the payments that are still marked as pending.
+
+### Add Loan Payment
+If you have deposited your a loan payment to the bank, you can add your own contributions record using the `New Loan Payment` button on this page.
+
+<!-- tabs:start -->
+#### **Desktop**
+![alt text](images/5.4_My_Loans_Add_Payment.png "My Loans add payment")
+
+#### **Mobile**
+![alt text](images/5.4_My_Loans_Add_Payment_Mobile_1.png "My Loans Detail")
+![alt text](images/5.4_My_Loans_Add_Paymentl_Mobile_2.png "My Loans Detail")
+<!-- tabs:end -->
+
+In the `Create Loan Payment` page, provide the following information:
+
+- `Date` – Select the date the payment was made.
+- `Amount` – Enter the amount paid.
+- `Memo` – Add any additional information regarding the transaction.
+- `Attachment` - use the `Choose File` button to upload an image of the banking receipt. This will be used as proof for the `Treasurer` to approve the request.
+
+The record will be marked as `Pending` by default until the `Treasurer` edits and approves the record.
+
+?>Loan payment records with a status as `Pending` will not be included in a members total loan payments sum until the `Treasurer` marks it as `Approved`.
+
 
 ## Fund Transactions
 This page displays a table which lists the details of transactions carried out by the Fund (income or Expense).  
@@ -145,3 +169,28 @@ Details of the investment record include:
 - `Investment Value` – The total amount that the investment is worth (including gains and losses).
 - `Memo` – Any additional information regarding the transaction.
 - `Investment Transactions` – a table grid that display individual invest transactions including initial funding, losses gain etc.
+
+## All Transactions
+
+!>This is a read-only page. It consolidates transactions from the various types of transactions to create a statement of all activity in the fund.
+
+This page is used for reconciliation. Practically it should be comparable to the bank statement. It combines and lists all transactions in chronological order with a running total. It is useful to compare with bank statements for determining cash position.
+
+![alt text](images/6.7_All_transactions.png "statement")
+
+The page displays a table with columns follows:
+
+- `Month` - All months listed chronologically since the beginning of the club's financial transactions.
+- `Balance` - A running total that takes into account the previous months balance as well as all the transactions for the respective month.
+
+Each month row has an `expand/collapse` button ![alt text](images/expand_collapse.png "expand/collapse button") that can be used to show or hide transactions individual transactions for that month. When the month row is expanded the corresponding records are displayed with the following columns:
+
+- `Date` - The date that the transaction happened.
+- `Detail` - a description for the particular transactions.
+- `Amount` - The transaction amount. Money in is displayed as green while money out is displayed as red and in negative.
+- `Balance` - The running balance taking into account all previous transactions.
+
+Additionally the page contains the following:
+- `Search transactions` - a search box is also provided to allow you to filter a specific transaction you may be looking for. When you type into the box the table is automatically filter to display just the transactions containing the word being searched.
+
+?>Note that when more than one word is entered into search box, the table displays records corresponding to **any** of the search words.

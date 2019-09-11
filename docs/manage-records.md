@@ -208,28 +208,3 @@ From the `Document List` page click on a document record to edit it. The `Edit D
 A `Document` record can be deleted using the `Red Trash can` ![alt text](images/red_trash_button.png "Red trash can button") button next to the record.
 
 ![alt text](images/6.6.1_Delete_document.png "Delete document")
-
-## Statement
-
-!>This is a read-only page. It can only be viewed by the `Admin`, `Treasurer` or member with the permission `finance_write`.
-
-This page is used for reconciliation. Practically it should be comparable to the bank statement. It combines and lists all transactions in chronological order with a running total. It is useful to compare with bank statements for determining cash position.
-
-![alt text](images/6.7_All_transactions.png "statement")
-
-The page displays a table with columns follows:
-
-- `Month` - All months listed chronologically since the beginning of the club's financial transactions.
-- `Balance` - A running total that takes into account the previous months balance as well as all the transactions for the respective month.
-
-Each month row has an `expand/collapse` button ![alt text](images/expand_collapse.png "expand/collapse button") that can be used to show or hide transactions individual transactions for that month. When the month row is expanded the corresponding records are displayed with the following columns:
-
-- `Date` - The date that the transaction happened.
-- `Detail` - a description for the particular transactions.
-- `Amount` - The transaction amount. Money in is displayed as green while money out is displayed as red and in negative.
-- `Balance` - The running balance taking into account all previous transactions.
-
-Additionally the page contains the following:
-- `Search transactions` - a search box is also provided to allow you to filter a specific transaction you may be looking for. When you type into the box the table is automatically filter to display just the transactions containing the word being searched.
-
-?>Note that when more than one word is entered into search box, the table displays records corresponding to **any** of the search words.
