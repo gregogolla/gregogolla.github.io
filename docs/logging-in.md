@@ -32,14 +32,12 @@ If you need to reset your password, do the following:
   -	You’ll receive an email with a link to reset your password.
 
 ##	New Member Sign Up
-The system allows new members to register and apply to join.
-
-If you need to sign up to the platform, do the following:
+The system automates the process for new members to register and apply to join. If you need to sign up to the platform, do the following:
 
   -	Click on the `Sign Up Here` button from the login screen
 
-  |   Sign Up Button           |  Fill Sign Up Request  |
-    :-------------------------:|:-------------------------:
+  |   Sign Up Button         |  Fill Sign Up Request  |
+  :-------------------------:|:-------------------------:
   ![alt text](images/1.5_Request_Sign_Up.png "Sign Up button") | ![alt text](images/1.6_Sign_Up_Form.png "Fill Sign Up")
 
   1. Enter your First Name
