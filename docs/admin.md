@@ -11,6 +11,26 @@ The `Users` Tab is used to edit an individual member’s profile. It can be used
 
 ![alt text](images/7.1_Users.png "users tab")
 
+###	Participation dates
+
+!> **Note** It is important that the Administrator accurately records all members' `Participation Dates` so that arrears and dues can be calculated correctly.
+
+`Participation Dates` provide exact date intervals for which a specific member is expected to be an active, dues paying member of the fund. By recording exact date ranges the system can then calculate how much everyone is expected to pay and from that determine arrears for each account. Add as many date ranges as necessary to fully describe the members dates of participation , especially if the member had many gaps in their membership.
+
+![alt text](images/7.4_Participation_Dates.png "participation dates tab")
+
+####	Add Participation dates
+To add a participation date click on the `+ Participation date` button under a member's record.
+
+In the `Create Participation Date` page, provide the following information:
+
+- `Member` – This is pre-selected based on the member record under which the add button was clicked. It can be changed.
+- `Date Joined` – Enter the date joined or the date rejoined after the member had previously left.
+- `Date Left` – This is blank if the member is active under this date range.
+- `Memo` – Add any additional information regarding the participation date record.
+
+![alt text](images/7.4_Participation_Dates_Add.png "Add participation dates")
+
 ###	Roles
 `Roles` are synonymous to User groups. They are used to easily place login accounts into groups for which appropriate permissions can be assigned.
 
@@ -23,13 +43,6 @@ The `Users` Tab is used to edit an individual member’s profile. It can be used
 
 ![alt text](images/7.3_Memberships.png "memberships tab")
 
-###	Participation dates
-
-!> **Note** It is important that the Administrator accurately records all members' `Participation Dates` so that arrears and dues can be calculated correctly.
-
-`Participation Dates` provide exact date intervals for which a specific member is expected to be an active, dues paying member of the fund. By recording exact date ranges the system can then calculate how much everyone is expected to pay and from that determine arrears for each account. Add as many date ranges as necessary to fully describe the members dates of participation , especially if the member had many gaps in their membership.
-
-![alt text](images/7.4_Participation_Dates.png "participation dates tab")
 
 
 ###	Permissions
