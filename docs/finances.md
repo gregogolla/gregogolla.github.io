@@ -178,7 +178,7 @@ Details of the investment record include:
 
 This page is used for reconciliation. Practically it should be comparable to the bank statement. It combines and lists all transactions in chronological order with a running total. It is useful to compare with bank statements for determining cash position.
 
-![alt text](images/6.7_All_transactions.png "statement")
+![alt text](images/6.7_All_transactions.png "All transactions")
 
 The page displays a table with columns follows:
 
