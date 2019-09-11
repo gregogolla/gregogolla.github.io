@@ -36,8 +36,8 @@ The system automates the process for new members to register and apply to join. 
 
   -	Click on the `Sign Up Here` button from the login screen
 
-  |   Sign Up Button           |  Fill Sign Up Request  |
-    :-------------------------:|:-------------------------:
+  |  Sign Up Button           |  Fill Sign Up Request  |
+    :------------------------:|:-------------------------:
   ![alt text](images/1.5_Request_Sign_Up.png "Sign Up button") | ![alt text](images/1.6_Sign_Up_Form.png "Fill Sign Up")
 
   1. Enter your First Name
