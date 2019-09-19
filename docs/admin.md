@@ -13,13 +13,14 @@ The `Users` Tab is used to edit an individual member’s profile. It can be used
 
 #### Activate or deactivate Users
 To login and use the platform a user's login needs to be active. All user accounts have one of the following statuses:
-  - `Active` - This is the status that all members who login to the system will have
-  - `Pending` - When a member initially registers into the system the user's account is saved with this status. They will be unable to login until the administrator changes the status to `Active`
-  - `Disabled` - When a user leaves or becomes inactive the Administrator can deactivate the user's login by changing the status to `Disabled`. The member will be unable to login until the administrator changes the status to `Active`.
+  - `Active` - This is the status that all members who login to the system will normally have. The status is denoted by the colour green.
+  - `InActive` - This status is set automatically by the system based on the members `Participation date` when the user is not actively contributing. Members with this status can still login to the system. The admin cannot manually set an account to this status. The status is denoted by the colour gray.
+  - `Pending` - When a member initially registers into the system the user's account is saved with this status. They will be unable to login until the administrator changes the status to `Active`. The admin cannot manually set an account to this status. The status is denoted by the colour orange.
+  - `Disabled` - When a user leaves the Administrator can disable the user's login by changing the status to `Disabled`. The member will be unable to login until the administrator changes the status to `Active`. The status is denoted by the colour red.
 
 To activate a user whose status is `pending` or `disabled` do the following:
   - Click on the users `Status` button in the `Manage Users` page.
-  - Select the `active` (or whatever appropriate status you would like to set).
+  - Select the `active` (or set to `disabled` if the account is `pending` or `active`).
   - Confirm when prompted.
 
 |  Select Status             |  Confirm change |
