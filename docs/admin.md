@@ -11,7 +11,7 @@ The `Users` Tab is used to edit an individual member’s profile. It can be used
 
 ![alt text](images/7.1_Users.png "users tab")
 
-#### Activate or deactivate Users
+#### Activate or disable Users
 To login and use the platform a user's login needs to be active. All user accounts have one of the following statuses:
   - `Active` - This is the status that all members who login to the system will normally have. The status is denoted by the colour green.
   - `InActive` - This status is set automatically by the system based on the members `Participation date` when the user is not actively contributing. Members with this status can still login to the system. The admin cannot manually set an account to this status. The status is denoted by the colour gray.
@@ -48,6 +48,8 @@ In the `Create Participation Date` page, provide the following information:
 - `Memo` – Add any additional information regarding the participation date record.
 
 ![alt text](images/7.4_Participation_Dates_Add.png "Add participation dates")
+
+?> **Note** If there are no participation dates that include the current date the member's account will be marked as `inactive`.
 
 ###	Roles
 `Roles` are synonymous to User groups. They are used to easily place login accounts into groups for which appropriate permissions can be assigned.
