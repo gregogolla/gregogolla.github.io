@@ -49,7 +49,7 @@ In the `Create Participation Date` page, provide the following information:
 
 ![alt text](images/7.4_Participation_Dates_Add.png "Add participation dates")
 
-?> **Note** If there are no participation dates that include the current date the member's account will be marked as `inactive`.
+?> **Note** If there are no participation date records that include the current date, the member's account will be marked as `inactive`.
 
 ###	Roles
 `Roles` are synonymous to User groups. They are used to easily place login accounts into groups for which appropriate permissions can be assigned.
