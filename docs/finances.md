@@ -116,6 +116,28 @@ The record will be marked as `Pending` by default until the `Treasurer` edits an
 
 ?>Loan payment records with a status as `Pending` will not be included in a members total loan payments sum until the `Treasurer` marks it as `Approved`.
 
+## My Arrears
+From the `My Dashboards` page, a member can access more detail about arrears (or credit) that have accrued.
+
+![alt text](images/4.3_My_Arrears_Card.png "My Arrears Card")
+
+Click on the `My Arrears` card to navigate to the `Arrears List` page that provides details on how the arrears and credit have accrued.
+
+!> **Note** For accurate calculation of arrears, you and everyone in your account must have your `Participation Dates` correctly entered by the administrator. The dates can be verified in the [Member profile page](top-banner.md#member-profile).
+
+On the `Arrears List` page, a member can view the following:
+
+<!-- tabs:start -->
+#### **Desktop**
+![alt text](images/4.4_My_Arrears_List.png "My Arrears List")
+
+#### **Mobile**
+![alt text](images/4.4_My_Arrears_List_Mobile.png "My Arrears List")
+<!-- tabs:end -->
+  - `Month` – A Year-Month combination for which there was an expected payment that and the actual payment did not match.
+  - `Expected` – Based on the Account Members participation dates (as displayed in each member profile page) the total amount expected for the respective account.
+  - `Paid` – Total amount paid for the account for the month.
+  - `Arrears` – The difference between the expected amount and the actual amount paid.
 
 ## Fund Transactions
 This page displays a table which lists the details of transactions carried out by the Fund (income or Expense).  
