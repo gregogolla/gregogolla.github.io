@@ -57,6 +57,10 @@ Clicking on the `View All Announcements` button takes you to the `Announcements`
 ![alt text](images/3.2.1_Annoucement_inbox_Mobile.png "announcements icon")
 <!-- tabs:end -->
 
+##	Tasks
+This icon (which is only visible to the admin and treasurer) is used to indicate to the user any outstanding items that need to be addressed. Clicking on the respective item will direct the user to the appropriate screen to address the pending task.
+![alt text](images/3.2.3_Tasks.png "Tasks icon")
+
 ## User Drop Down
 The `User Drop-down` Icon provides the members with access to their profile, ability to reset their password or to log out from the site
 

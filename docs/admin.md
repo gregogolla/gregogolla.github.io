@@ -23,13 +23,16 @@ To activate a user whose status is `pending` or `disabled` do the following:
   - Select the `active` (or set to `disabled` if the account is `pending` or `active`).
   - Confirm when prompted.
 
+
+?> **Note** You cannot use the `status` button to change a user's status from something else to `pending` or `inactive`. The `pending` status is reserved for the system. A newly signed up user will automatically be marked as `inactive`, until the admin changes this status. Additionally the `inactive` status is automatically determined based on the `participation date` records that have been entered for a user. If there are no `participation date` records that include the current date, the member's account is automatically marked as `inactive`.
+
+
 |  Select Status             |  Confirm change |
   :-------------------------:|:-------------------------:
 ![alt text](images/7.3.1_Activate_Member.png "change stasus button") | ![alt text](images/7.3.2_Activate_Member_Confirm.png "Confirm change status")
 
 
-
-###	Participation dates
+####	Participation dates
 
 !> **Note** It is important that the Administrator accurately records all members' `Participation Dates` so that arrears and dues can be calculated correctly.
 
@@ -37,10 +40,10 @@ To activate a user whose status is `pending` or `disabled` do the following:
 
 ![alt text](images/7.4_Participation_Dates.png "participation dates tab")
 
-####	Add Participation dates
+#####	Add Participation dates
 To add a participation date click on the `+ Participation date` button under a member's record.
 
-In the `Create Participation Date` page, provide the following information:
+In the `Create Participation Date` page, provides the following information:
 
 - `Member` – This is pre-selected based on the member record under which the add button was clicked. It can be changed.
 - `Date Joined` – Enter the date joined or the date rejoined after the member had previously left.
@@ -50,6 +53,34 @@ In the `Create Participation Date` page, provide the following information:
 ![alt text](images/7.4_Participation_Dates_Add.png "Add participation dates")
 
 ?> **Note** If there are no participation date records that include the current date, the member's account will be marked as `inactive`.
+
+###	Accounts
+All dues paying members of the fund should be associated with an account. An account is the entity to which  contributions, loans, and loan payments to or from the fund are attributed to. An account can contain one or more users. Although expected contributions depend on each individual in an account, the amounts are reflected against the account.
+
+![alt text](images/7.5_Accounts.png "accounts tab")
+
+#### Add Account
+The `+ New Account` button at the top of the screen is used to add a new account to the system.
+![alt text](images/7.9_New_Account.png "New Account")
+
+The `Manage Accounts` page displays a table listing all accounts displaying the following two columns:
+
+- `Account title` - he name of the accounts
+- `Lump sum required` -  a check-box (true or false) that indicates whether the system should expect a lump sum payment from the account.
+
+Each account record also displays a collapsible button that provides more information and capabilities i.e.
+
+#### Add member to Account
+`+ Member` button under the respective account is used to add  a member to an account. A member can only be assigned one account.
+
+![alt text](images/7.6_Add_member_to_account.png "add member to account")
+
+#### Set Lumpsum required buttons
+This is displayed as a switch to turn on or off the requirement for a lump sum payment.
+![alt text](images/7.8_Lump_Sum_button.png "lump sum button")
+
+#### Remove member from account
+A member can be removed from an `Account` using the `Red Trash can` ![alt text](images/red_trash_button.png "Red trash can button") button next to the member record.
 
 ###	Roles
 `Roles` are synonymous to User groups. They are used to easily place login accounts into groups for which appropriate permissions can be assigned.

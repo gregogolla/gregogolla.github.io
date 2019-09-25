@@ -1,4 +1,4 @@
-#	Finances Area
+#	Finances
 Under the Finances section, users can view the following:
 - Member’s Contributions.
 - Member’s loans.
@@ -183,6 +183,7 @@ This page is used for reconciliation. Practically it should be comparable to the
 The page displays a table with columns follows:
 
 - `Month` - All months listed chronologically since the beginning of the club's financial transactions.
+- `Amount` - The sum of all transaction carried out within that month. Money in is displayed as green while money out is displayed as red and in negative.
 - `Balance` - A running total that takes into account the previous months balance as well as all the transactions for the respective month.
 
 Each month row has an `expand/collapse` button ![alt text](images/expand_collapse.png "expand/collapse button") that can be used to show or hide transactions individual transactions for that month. When the month row is expanded the corresponding records are displayed with the following columns:
