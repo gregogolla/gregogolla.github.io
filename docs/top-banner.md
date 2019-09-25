@@ -58,7 +58,10 @@ Clicking on the `View All Announcements` button takes you to the `Announcements`
 <!-- tabs:end -->
 
 ##	Tasks
-This icon (which is only visible to the admin and treasurer) is used to indicate to the user any outstanding items that need to be addressed. Clicking on the respective item will direct the user to the appropriate screen to address the pending task.
+?> **Note** This icon is only visible to the `Amin` or `Treasurer`.
+
+This icon is used to indicate to the user any outstanding items that need to be addressed. Clicking on the respective item will direct the user to the appropriate screen to address the pending task.
+
 ![alt text](images/3.2.3_Tasks.png "Tasks icon")
 
 ## User Drop Down
