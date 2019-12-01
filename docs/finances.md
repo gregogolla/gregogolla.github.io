@@ -203,7 +203,7 @@ This page displays financial reports for the club. There are three tabs
 ![alt text](images/5.9_Reports_Cashflow.png "Cashflow report")
 
 #### **Mobile**
-![alt text](images/5.9_Reports_Cashflow_Mobile.png "Fund transactions")
+![alt text](images/5.9_Reports_Cashflow_Mobile.png "Cashflow report")
 <!-- tabs:end -->
 
 The Cashflow report summarizes the amount of cash and cash equivalents coming into(revenue) and getting out of (expenditure) the club. The revenue comes from contributions, loan payments, and other miscellaneous income like bank charges. The expenditure comes from investments, loan disbursements and other miscellaneous expense like bank charges.
@@ -212,6 +212,14 @@ The report also indicates income that has not yet been realized (unwithdrawn gai
 
 
 ### Balance sheet
+<!-- tabs:start -->
+#### **Desktop**
+![alt text](images/5.9_Reports_Balance.png "Balance sheet report")
+
+#### **Mobile**
+![alt text](images/5.9_Reports_Balance_Mobile.png "Balance sheet")
+<!-- tabs:end -->
+
 The Balance Sheet details of the assets and liabilities of club. The Total Assets will always equal the Total Liabilities plus Members Equity of the club.
 
 The assets include Cash (at hand and in the bank), tangible assets and property and value of security and investments.
@@ -221,6 +229,13 @@ The liabilities will include any debts owed and accounts payable.
 The difference between the assets and liabilities will be the member equity. The members equity is divided into profits made during the year (retained earnings ) and members investment.
 
 ### Profit and loss
+<!-- tabs:start -->
+#### **Desktop**
+![alt text](images/5.9_Reports_PL.png "Profit and loss")
+
+#### **Mobile**
+![alt text](images/5.9_Reports_PL_Mobile.png "Profit and loss")
+<!-- tabs:end -->
 The profit loss statement report summarizes the revenues, costs, and expenses incurred by the club during a specified  year. The income comes from contributions, loan payments, and other miscellaneous income like bank charges. The expenditure comes from loan disbursements and other miscellaneous expense like bank charges.
 
 ## All Transactions
