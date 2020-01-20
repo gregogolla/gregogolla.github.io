@@ -27,7 +27,7 @@ If you need to reset your password, do the following:
   :-------------------------:|:-------------------------:
 ![alt text](images/1.3_Lost_password.png "lost password") | ![alt text](images/1.4_Request_password.png "request password")
 
-  -	Provide your email address.  
+  -	Provide your email address(note email validation requires you enter the email address in lower case).  
   -	Click on the `Request reset password` button
   -	You’ll receive an email with a link to reset your password.
 
