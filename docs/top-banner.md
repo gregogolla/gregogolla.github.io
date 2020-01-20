@@ -45,7 +45,7 @@ This icon links to the announcement module where members can view announcements 
 
 ![alt text](images/3.2_Announcement.png "announcements icon")
 
-Clicking on the `View All Announcements` button takes you to the `Announcements` screen from where a member can view all announcements.
+Clicking on the `View All` button takes you to the `Announcements` screen from where a member can view all announcements.
 
 ?> **Note** Announcements are also sent to the members as external emails.
 
