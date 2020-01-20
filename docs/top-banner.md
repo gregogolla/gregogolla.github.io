@@ -12,11 +12,11 @@ The Search Box searches through the different records and returns content matchi
 <!-- tabs:end -->
 When searching through application, the results will be displayed according to the logged in user’s access to the content that matches the search string submitted.
 
->Therefore:
+Therefore:
 -	A member can only view their individual transactions in the search result with the exception of company expenses and documents which are transparent to all members.
 -	A committee member can view all member transactions in the search results but not edit any of the transactions
 -	The treasurer or admin can view, edit or delete all transactions
--->
+
 ## Messages Icon
 This icon links to the `Messages` module which provides members with the ability to send messages to each other.
 
