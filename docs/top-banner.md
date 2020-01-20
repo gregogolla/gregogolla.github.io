@@ -25,9 +25,9 @@ This icon links to the `Messages` module which provides members with the ability
 ![alt text](images/3.1_Message.png "messages icon")
 </div>
 
-Clicking on the `See All Messages` link takes you to the Mailbox view from where a user can view all messages that they have received (in the `Inbox` Folder), sent (in the `Sent` Folder) or saved as a draft (in the `Drafts` Folder).
+Clicking on the `View All` button takes you to the Mailbox view from where a user can view all messages that they have received (in the `Inbox` Folder), sent (in the `Sent` Folder) or saved as a draft (in the `Drafts` Folder).
 
-Clicking on the `Create Message` takes you to the `Compose New Message` view that allows you to compose and send a message to another member on the site. You can also compose a new message by using the `Compose` button at the top of the messages screen.
+Clicking on the `New Message` takes you to the `Compose New Message` view that allows you to compose and send a message to another member on the platform. You can also compose a new message by using the `Compose` button at the top of the messages screen.
 
 <!-- tabs:start -->
 #### **Desktop**
